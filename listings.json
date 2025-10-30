@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/test2.html",
+      "/blog/2024-08-25-test1.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/blog/test2.html",
@@ -13,13 +20,6 @@
     "items": [
       "/slides/test1-slide.html",
       "/slides/test2-slide.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/test2.html",
-      "/blog/2024-08-25-test1.html"
     ]
   }
 ]

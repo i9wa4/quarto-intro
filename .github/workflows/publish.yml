@@ -12,13 +12,13 @@ jobs:
       contents: write
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+        uses: quarto-dev/quarto-actions/setup@9e48da27e184aa238fcb49f5db75469626d43adb # v2.1.9
 
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
+        uses: quarto-dev/quarto-actions/publish@9e48da27e184aa238fcb49f5db75469626d43adb # v2.1.9
         with:
           target: gh-pages
         env:

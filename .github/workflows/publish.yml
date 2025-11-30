@@ -15,10 +15,10 @@ jobs:
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@9e48da27e184aa238fcb49f5db75469626d43adb # v2.1.9
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
 
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@9e48da27e184aa238fcb49f5db75469626d43adb # v2.1.9
+        uses: quarto-dev/quarto-actions/publish@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
         with:
           target: gh-pages
         env:

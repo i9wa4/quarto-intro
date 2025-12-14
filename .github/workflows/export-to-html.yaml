@@ -37,6 +37,6 @@ jobs:
       - name: Deploy to HTML branch
         uses: JamesIves/github-pages-deploy-action@9d877eea73427180ae43cf98e8914934fe157a1a # v4.7.6
         with:
-          folder: docs
+          folder: _site
           branch: html
           clean: true

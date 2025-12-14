@@ -1,0 +1,81 @@
+---
+title: スライドタイトル スライドタイトル スライドタイトル
+author: uma-chan
+date: today
+---
+
+## 1. 試験用タイトル
+
+## 1. test
+
+### 1.1. aaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaa
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+[https://example.com](https://example.com)
+
+https://example.com
+
+https://example.com
+
+- bbbbbbbbbbbbbb
+- ccccccccccc
+    1. aaaaaa
+    1. bbbbbb
+
+> test test
+
+`test`
+
+```{.yaml}
+format:
+  revealjs:
+    # incremental: true
+    # mainfont: "Noto Sans JP"
+    slide-level: 3
+```
+
+:::
+
+::: {.column width="50%"}
+
+> test test
+
+`test`
+
+```{.py}
+print("Hello, world!")
+```
+
+:::
+
+::::
+
+## 2. test
+
+### 2.1. aaaaaaaa
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+| aaa | bbb | ccc |
+| --- | --- | --- |
+| aaa | bbb | ccc |
+| aaa | bbb | ccc |
+| aaa | bbb | ccc |
+| aaa | bbb | ccc |
+| aaa | bbb | ccc |
+| aaa | bbb | ccc |
+
+:::
+
+::: {.column width="70%"}
+
+![](/assets/common/title-background.jpg)
+
+:::
+
+::::

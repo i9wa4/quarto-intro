@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "blog/2024-08-25-test1.html",
-    "href": "blog/2024-08-25-test1.html",
-    "title": "test1",
-    "section": "",
-    "text": "1行目\nファイル名の先頭に日付をつけておくと管理しやすいですが必須ではありません。"
+    "objectID": "slides/test2-slide.html#サブタイトル1",
+    "href": "slides/test2-slide.html#サブタイトル1",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル1",
+    "text": "サブタイトル1\n本文"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "ブログ記事一覧",
-    "section": "",
-    "text": "test2\n\n\n\n\n\n\n\n\nAug 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\ntest1\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\n\n\n\nNo matching items"
+    "objectID": "slides/test2-slide.html#サブタイトル2",
+    "href": "slides/test2-slide.html#サブタイトル2",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル2",
+    "text": "サブタイトル2\n本文"
+  },
+  {
+    "objectID": "index.html#ブログとスライドの新着一覧",
+    "href": "index.html#ブログとスライドの新着一覧",
+    "title": "トップページ index.qmd",
+    "section": "ブログとスライドの新着一覧",
+    "text": "ブログとスライドの新着一覧\nブログやスライドなどディレクトリを分けている記事をまとめてリスト表示することができます。"
   },
   {
     "objectID": "slides/test1-slide.html#サブタイトル1",
@@ -28,45 +35,24 @@
     "text": "サブタイトル2\n本文"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "トップページ index.qmd",
-    "section": "",
-    "text": "本文"
+    "objectID": "slides/2025-05-05-initial-slide.html#試験用タイトル",
+    "href": "slides/2025-05-05-initial-slide.html#試験用タイトル",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "1. 試験用タイトル",
+    "text": "1. 試験用タイトル"
   },
   {
-    "objectID": "index.html#ブログとスライドの新着一覧",
-    "href": "index.html#ブログとスライドの新着一覧",
-    "title": "トップページ index.qmd",
-    "section": "ブログとスライドの新着一覧",
-    "text": "ブログとスライドの新着一覧\nブログやスライドなどディレクトリを分けている記事をまとめてリスト表示することができます。"
+    "objectID": "slides/2025-05-05-initial-slide.html#test",
+    "href": "slides/2025-05-05-initial-slide.html#test",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "1. test",
+    "text": "1. test"
   },
   {
-    "objectID": "slides/index.html",
-    "href": "slides/index.html",
-    "title": "スライド一覧",
-    "section": "",
-    "text": "test1-slide タイトル\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\ni9wa4\n\n\n\n\n\n\n\n\n\n\n\n\ntest2-slide タイトル\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\ni9wa4\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "slides/test2-slide.html#サブタイトル1",
-    "href": "slides/test2-slide.html#サブタイトル1",
-    "title": "test2-slide タイトル",
-    "section": "サブタイトル1",
-    "text": "サブタイトル1\n本文"
-  },
-  {
-    "objectID": "slides/test2-slide.html#サブタイトル2",
-    "href": "slides/test2-slide.html#サブタイトル2",
-    "title": "test2-slide タイトル",
-    "section": "サブタイトル2",
-    "text": "サブタイトル2\n本文"
-  },
-  {
-    "objectID": "blog/test2.html",
-    "href": "blog/test2.html",
-    "title": "test2",
-    "section": "",
-    "text": "ここが1行目\nファイル名の先頭に日付をつけておくと管理しやすいですが必須ではありません。"
+    "objectID": "slides/2025-05-05-initial-slide.html#test-1",
+    "href": "slides/2025-05-05-initial-slide.html#test-1",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "2. test",
+    "text": "2. test"
   }
 ]

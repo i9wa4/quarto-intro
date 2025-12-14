@@ -9,19 +9,19 @@ website:
   navbar: true
   search: false
 
-format:
-  revealjs:
-    code-copy: true
-    code-overflow: wrap
-    scrollable: true
-    self-contained: true
-    slide-level: 3
-    slide-number: true
-    theme:
-      - default
-    width: 1920
-    height: 1080
-    title-slide-attributes:
-      data-background-color: "#001722"
-      data-background-image: "/assets/common/title-background.jpg"
-      data-background-size: "cover"
+# format:
+#   revealjs:
+#     code-copy: true
+#     code-overflow: wrap
+#     scrollable: true
+#     self-contained: true
+#     slide-level: 3
+#     slide-number: true
+#     theme:
+#       - default
+#     width: 1920
+#     height: 1080
+#     title-slide-attributes:
+#       data-background-color: "#001722"
+#       data-background-image: "/assets/common/title-background.jpg"
+#       data-background-size: "cover"

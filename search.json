@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "slides/test2-slide.html#サブタイトル1",
+    "href": "slides/test2-slide.html#サブタイトル1",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル1",
+    "text": "サブタイトル1\n本文"
+  },
+  {
+    "objectID": "slides/test2-slide.html#サブタイトル2",
+    "href": "slides/test2-slide.html#サブタイトル2",
+    "title": "test2-slide タイトル",
+    "section": "サブタイトル2",
+    "text": "サブタイトル2\n本文"
+  },
+  {
+    "objectID": "index.html#ブログとスライドの新着一覧",
+    "href": "index.html#ブログとスライドの新着一覧",
+    "title": "トップページ index.qmd",
+    "section": "ブログとスライドの新着一覧",
+    "text": "ブログとスライドの新着一覧\nブログやスライドなどディレクトリを分けている記事をまとめてリスト表示することができます。"
+  },
+  {
+    "objectID": "slides/test1-slide.html#サブタイトル1",
+    "href": "slides/test1-slide.html#サブタイトル1",
+    "title": "test1-slide タイトル",
+    "section": "サブタイトル1",
+    "text": "サブタイトル1\n本文"
+  },
+  {
+    "objectID": "slides/test1-slide.html#サブタイトル2",
+    "href": "slides/test1-slide.html#サブタイトル2",
+    "title": "test1-slide タイトル",
+    "section": "サブタイトル2",
+    "text": "サブタイトル2\n本文"
+  },
+  {
+    "objectID": "slides/2025-05-05-initial-slide.html#試験用タイトル",
+    "href": "slides/2025-05-05-initial-slide.html#試験用タイトル",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "1. 試験用タイトル",
+    "text": "1. 試験用タイトル"
+  },
+  {
+    "objectID": "slides/2025-05-05-initial-slide.html#test",
+    "href": "slides/2025-05-05-initial-slide.html#test",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "1. test",
+    "text": "1. test"
+  },
+  {
+    "objectID": "slides/2025-05-05-initial-slide.html#test-1",
+    "href": "slides/2025-05-05-initial-slide.html#test-1",
+    "title": "スライドタイトル スライドタイトル スライドタイトル",
+    "section": "2. test",
+    "text": "2. test"
+  }
+]

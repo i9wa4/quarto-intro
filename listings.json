@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/test2.html",
+      "/blog/2024-08-25-test1.html"
+    ]
+  },
+  {
+    "listing": "/slides/index.html",
+    "items": [
+      "/slides/2025-05-05-initial-slide.html",
+      "/slides/test1-slide.html",
+      "/slides/test2-slide.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/slides/2025-05-05-initial-slide.html",
+      "/blog/test2.html",
+      "/blog/2024-08-25-test1.html",
+      "/slides/test1-slide.html",
+      "/slides/test2-slide.html"
+    ]
+  }
+]

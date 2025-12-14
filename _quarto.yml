@@ -1,10 +1,8 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: "_site"
 
 date-format: iso
 
 website:
   title: "quarto-intro"
-  navbar: true
-  search: false
